@@ -5,7 +5,7 @@ public class ReceiptDto {
     private int id;
     private String shop;
     private String product;
-    private long quantity;
+    private double quantity;
     private double price;
     private String username;
 
@@ -33,11 +33,11 @@ public class ReceiptDto {
         this.product = product;
     }
 
-    public long getQuantity() {
+    public double getQuantity() {
         return quantity;
     }
 
-    public void setQuantity(long quantity) {
+    public void setQuantity(double quantity) {
         this.quantity = quantity;
     }
 

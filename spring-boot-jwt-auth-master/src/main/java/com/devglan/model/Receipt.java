@@ -15,7 +15,7 @@ public class Receipt {
     @Column
     private String product;
     @Column
-    private long quantity;
+    private double quantity;
     @Column
     private double price;
     @Column
@@ -55,11 +55,11 @@ public class Receipt {
         this.product = product;
     }
 
-    public long getQuantity() {
+    public double getQuantity() {
         return quantity;
     }
 
-    public void setQuantity(long quantity) {
+    public void setQuantity(double quantity) {
         this.quantity = quantity;
     }
 

@@ -5,9 +5,15 @@ com\devglan\model\UserDto.class
 com\devglan\service\impl\UserServiceImpl.class
 com\devglan\service\UserService.class
 com\devglan\model\Constants.class
+com\devglan\dao\ReceiptDao.class
 com\devglan\model\AuthToken.class
+com\devglan\model\ReceiptDto.class
 com\devglan\controller\AuthenticationController.class
+com\devglan\model\Receipt.class
+com\devglan\controller\ReceiptController.class
 com\devglan\Application.class
+com\devglan\service\ReceiptService.class
+com\devglan\service\impl\ReceiptServiceImpl.class
 com\devglan\dao\UserDao.class
 com\devglan\model\LoginUser.class
 com\devglan\config\WebSecurityConfig.class
