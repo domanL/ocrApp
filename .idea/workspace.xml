@@ -3,109 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="65a7c5fa-d0df-4ca8-94d9-2b41861bbd41" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/.name" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/artifacts/spring_boot_jwt_auth_war.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/artifacts/spring_boot_jwt_auth_war_exploded.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_microsoft_azure_adal4j_1_0_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_microsoft_azure_azure_core_0_9_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_microsoft_azure_azure_keyvault_0_9_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_6_1_0_jre8.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_nimbusds_lang_tag_1_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_3_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_nimbusds_oauth2_oidc_sdk_4_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__javax_mail_mail_1_4_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__net_minidev_json_smart_1_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_51.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_16_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_6_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_6_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_4_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_4_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_4_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_orm_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/sqldialects.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-jwt-auth-master/angular7-crud-example" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-boot-jwt-auth-master/target/" />
     <ignored path=".idea" />
+    <ignored path="spring-boot-jwt-auth-master/angular7-frontend/package-lock.json" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -215,6 +116,12 @@
               <item name="app_a7" type="b2602c69:ProjectViewProjectNode" />
               <item name="app_a7" type="462c0819:PsiDirectoryNode" />
               <item name="spring-boot-jwt-auth-master" type="462c0819:PsiDirectoryNode" />
+              <item name="angular7-frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_a7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_a7" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-jwt-auth-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,14 +158,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-jwt-auth-master/angular7-frontend/package-lock.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="C:\Users\ZBook\Desktop\app_a7\spring-boot-jwt-auth-master\angular7-frontend\node_modules\tslint" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -384,7 +294,7 @@
       <option name="presentableId" value="Default" />
       <updated>1548456072803</updated>
       <workItem from="1548456074435" duration="353000" />
-      <workItem from="1548718657315" duration="1301000" />
+      <workItem from="1548718657315" duration="1722000" />
     </task>
     <task id="LOCAL-00001" summary="Fix structure catalog">
       <created>1548719437432</created>
@@ -407,11 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548719766408</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix structure catalog 6">
+      <created>1548720168854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548720168854</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1654000" />
+    <option name="totallyTimeSpent" value="2075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -420,6 +337,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -465,7 +383,8 @@
     <MESSAGE value="Fix structure catalog3" />
     <MESSAGE value="Fix structure catalog4" />
     <MESSAGE value="Fix structure catalog 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix structure catalog 5" />
+    <MESSAGE value="Fix structure catalog 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix structure catalog 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
