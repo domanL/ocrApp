@@ -1,0 +1,27 @@
+<div class="col-md-6 receipt-container">
+  <h2 style="margin: auto"> Receipt Details</h2>
+  <button class="btn btn-danger" style="width:100px" (click)="addUser()"> Add Photo</button>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th class="hidden">Id</th>
+      <th>Shop</th>
+      <th>Product</th>
+      <th>Quantity</th>
+      <th>price</th>
+      <th>username</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let receipt of receipts">
+      <td class="hidden">{{receipt.id}}</td>
+      <td>{{receipt.shop}}</td>
+      <td>{{receipt.product}}</td>
+      <td>{{receipt.quantity}}</td>
+      <td>{{receipt.price}}</td>
+      <td>{{receipt.username}}</td>
+      <td><button class="btn btn-success" (click)="editReceipt(user)" style="margin-left: 20px;"> Edit</button></td>
+    </tr>
+    </tbody>
+  </table>
+</div>
